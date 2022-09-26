@@ -4,3 +4,8 @@ Pour cloner : git clone <lien du repository git>
     - git add .
     - git commit -m <nom du commit>
     - git push
+
+Pour aller plus loin :
+
+Pour créer une branche : git branch <nom de la branche>
+Pour switcher de branche : git switch <nom de la branche>
