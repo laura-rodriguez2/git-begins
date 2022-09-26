@@ -4,3 +4,4 @@ Pour cloner : git clone <lien du repository git>
     - git add .
     - git commit -m <nom du commit>
     - git push 
+La commande pour pull : git pull
